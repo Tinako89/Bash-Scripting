@@ -1,2 +1,2 @@
 # Bash Scripting
-Mi colección de scripts.
+Todos mis Scripts básicos recopilados en GitHub.
