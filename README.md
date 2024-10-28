@@ -1,2 +1,2 @@
-# Bash-Scripting
+# Bash Scripting
 Mi colección de scripts.
