@@ -2,6 +2,6 @@
 archivos=$(ls)
 ruta=$(pwd)
 scripts=$(ls | grep *.sh)
-echo "Vamos a listar los scritps con extensión .sh de $ruta"
+echo "Vamos a listar los scripts con extensión .sh de $ruta"
 sleep 2
 echo $scripts
